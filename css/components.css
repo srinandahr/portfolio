@@ -176,3 +176,28 @@
     opacity: 1;
     transform: translateX(-50%) scale(1);
 }
+
+/* ---- Skill Logo Icons ---- */
+
+.skill-icon img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.skill-icon svg {
+    width: 20px;
+    height: 20px;
+    color: var(--accent-primary);
+}
+
+.skill-category-icon img.category-logo {
+    width: 28px;
+    height: 28px;
+    object-fit: contain;
+}
+
+.skill-category-icon svg {
+    width: 28px;
+    height: 28px;
+}
